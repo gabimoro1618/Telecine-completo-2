@@ -1,0 +1,322 @@
+nav{
+	background-color: #111111;
+}
+.foto_telecine{
+	margin-left: 370px;
+	width: 13%;
+}
+.propaganda{
+	width: 60%;
+	margin-left: 3%;
+}
+#premium{
+	width: 75%;
+}
+#cult{
+	width: 57%;
+}
+
+#tvzinha{
+	color: red;
+}
+#barrinha{
+	width: 250px;
+}
+.linha{
+	height: 500px;
+	border-left: 2px solid;
+	margin-left: 260px;
+	color: #eaedf2;
+	margin-top: -570px;
+}
+.encontrar{
+	color: #b4b9c1;
+	font-size: 20px;
+	margin-left: 8px;
+}
+.top{
+	margin-left: 260px;
+	margin-top: -600px;
+	font-size: 20px;
+	color: #b4b9c1;
+}
+.linha1{
+	width: 500px;
+	margin-left: 250px;
+	margin-top: -13px;
+}
+.genero{
+	color: red;
+	margin-left: 10px;
+}
+#oi{
+	margin-left: -580px;
+}
+.num{
+	margin-left: 280px;
+	margin-top: 60px;
+	font-size: 30px;
+	color: #b4b9c1;
+}
+.fotofilme{
+	margin-left: 310px;
+	height: 85px;
+	margin-top: -65px;
+}
+.nomefilme{
+	color: red;
+}
+.linha2{
+	width: 500px;
+	margin-left: 250px;
+	margin-top: 22px;
+}
+
+.nomeprop{
+	margin-right: 95%;
+}
+.textprop{
+	margin-right: 90%;
+	font-size: 120%;
+}
+.nomeprop2{
+	margin-right: -85%;
+}
+.textprop2{
+	margin-right: -80%;
+	font-size: 120%;
+}
+.propaganda2{
+	margin-left: 25%;
+	margin-top: 50px;
+}
+.notel{
+	margin-left: 28%;
+	font-size: 30px;
+	font-weight: lighter;
+	margin-top: 10px;
+}
+.hoje{
+	margin-left: 250px;
+	font-size: 40px;
+	color: red;
+}
+#cardsnotel{
+	margin-left: 27%;
+	margin-top: 40px;
+}
+#cardsnotel2{
+	margin-top: 2%;
+	margin-left: 26%;
+}
+.semana{
+	margin-top: 350px;
+	margin-left: 900px;
+	color: red;
+	font-size: 40px;
+}
+#noci{
+	font-size: 30px;
+	font-weight: lighter;
+	margin-top: 350px;
+	margin-left: 27%;
+}
+.hoje2{
+	margin-left: 220px;
+	font-size: 40px;
+	color: red;
+}
+.semana1{
+	margin-top: 270px;
+	margin-left: 900px;
+	color: red;
+	font-size: 40px;
+}
+.notel2{
+	font-size: 30px;
+	font-weight: lighter;
+	margin-left: 26%;
+	margin-top: 15%;
+}
+
+.bordi{
+	border-width: medium;
+	border-style: solid;
+	border-color: #eaedf2;
+	margin-left: 480px;
+	width: 700px;
+}
+
+.fotonotel{
+	width: 150px;
+	height: 200px;
+	border-width: medium;
+	border-style: solid;
+	border-color: #eaedf2;
+	margin-left: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.nome{
+	margin-left: -140px;
+	color: red;
+}
+
+.descrição{
+	margin-left: -140px;
+	color: gray;
+}
+
+#diego{
+	width: 350px;
+	border-radius: 10px;
+	
+}
+
+#x{
+	margin-left: 290px;
+	margin-top: -30px;
+	color: 	#DCDCDC;
+}
+
+#entrar{
+	background-color: #696969;
+	border-style: 10px solid;
+	border-color: red;
+}
+
+#entrarnotel{
+	margin-left: -800px;
+	color: white;
+	font-size: 25px;
+}
+
+.cor{
+	color: red;
+}
+
+.facebuk{
+	width: 20px;
+	height: 20px:
+}
+
+#conta{
+	margin-top: 40px;
+	border-width: medium;
+	border-style: solid;
+	border-color: #eaedf2;
+	margin-left: -165px;
+}
+
+.entrarconta{
+	margin-left: 15px;
+}
+
+.letras{
+	margin-left: 10px;
+}
+
+.guggle{
+	width: 20px;
+	height: 20px;
+}
+
+#conta2{
+	margin-top: 40px;
+	border-width: medium;
+	border-style: solid;
+	border-color: #eaedf2;
+	margin-left: 10px;
+
+}
+
+#gogogo{
+	font-color: red;
+}
+
+.cor2{
+	color: red;
+}
+
+ .linhaou{
+ 	margin-top: -12px;
+ }
+
+ #entrar2{
+ 	background-color: red;
+ 	color: white;
+ 	border-radius: 5px;
+ }
+.senha{
+	color: red;
+	margin-left: 100px;
+}
+
+#cadastrar{
+	font-weight: lighter;
+}
+
+#setinhas{
+	margin-left: 58%;
+}
+
+.textotel{
+	margin-top: -15%;
+	font-weight: lighter;
+	font-size: 30px;
+}
+
+.toptelecine{
+	font-weight: lighter;
+	font-size: 30px;
+	margin-left: 23%;
+}
+
+.topbilhe{
+	font-weight: lighter;
+	font-size: 30px;
+}
+
+.topcomp{
+	font-weight: lighter;
+	font-size: 30px;
+}
+
+.linhadostops1{
+	margin-top: -7px;
+	width: 250px;
+	margin-left: 50px;
+
+}
+.linhadostops2{
+	margin-top: -7px;
+	width: 250px;
+	margin-left: -30px;
+}
+.linhadostops3{
+	margin-top: -7px;
+	width: 300px;
+	margin-left: -30px;
+}
+.numtops1{
+	font-weight: lighter;
+	margin-left: 20%;
+	font-size: 20px;
+}
+.numtops2{
+	font-weight: lighter;
+	font-size: 20px;
+	margin-left: -15px;
+}
+.numtops3{
+	font-weight: lighter;
+	font-size: 20px;
+	margin-left: -15px;
+}
+
+.fotopaginapremium{
+	margin-top: -6%;
+	margin-left: -20%;
+	height: 250px;
+}
